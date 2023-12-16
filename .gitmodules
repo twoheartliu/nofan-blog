@@ -3,5 +3,5 @@
 	url = https://github.com/reuixiy/hugo-theme-meme.git
 
 [submodule "themes/jane"]
-	path = themes/meme
+	path = themes/jane
 	url = https://github.com/xianmin/hugo-theme-jane.git
