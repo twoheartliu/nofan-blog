@@ -614,7 +614,7 @@ uglyURLs = false
     autoLoadComments = false
 
     ## Disqus
-    enableDisqus = true
+    enableDisqus = false
     disqusShortname = "twoheart"
 
     ## Valine
@@ -648,7 +648,7 @@ uglyURLs = false
     # 说明：https://utteranc.es/
 
     ## Gitalk
-    enableGitalk = false
+    enableGitalk = true
     gitalkClientID = "4360d7f837d47ad22aaa"
     gitalkClientSecret = "4658d870d60976ed48c0c5d30f4de945b4d3be95"
     gitalkRepo = "nofan-blog"
