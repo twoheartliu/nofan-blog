@@ -55,7 +55,7 @@ tags:
 | 跨站导出、导入好友关系                                                                         | N/A    | ✅     |
 
 - 单条消息更改隐私等级：如图所示，点击小锁，调整等级。只要设置为「非公开」，别人就转发不了了。
-  ![长毛象-隐私等级](https://i.nofan.xyz/blog/why-mastodon/privacy.png)
+  ![长毛象-隐私等级](https://media.nofan.xyz/nofan-image-hosting/blog/why-mastodon/privacy.png)
 
 - 长毛象允许发布「仅限被提及者可见」的消息，这对于机器人类用户特别方便，例如「诗词君」 、「解签君」、「天气预报君」之类，大量发布，视觉污染，隐私泄露。
 
@@ -70,7 +70,7 @@ tags:
   - **主页**是本实例内，自己和所关注者的消息汇总；
   - **本地**是本实例内，所有人的消息汇总；
   - **联邦宇宙**是所有实例的消息。可以横向窥视所有长毛象的消息。个人设置里，有语言选项，你可以选择显示自己熟悉语言的时间线。
-    ![长毛象-时间线分类](https://i.nofan.xyz/blog/why-mastodon/timeline.jpeg)
+    ![长毛象-时间线分类](https://media.nofan.xyz/nofan-image-hosting/blog/why-mastodon/timeline.jpeg)
 
 - 搜索功能：饭否的搜索功能比较弱，而且越来越弱。但是仍然比长毛象的搜索要好用。可能是我自己不熟悉长毛象的缘故。作为一个把饭否当成自己的记事本，经常搜索自己的 TL 找记录的用户，我（目前）认为长毛象的搜索形同虚设。或许除非在每一条消息里加 tag，才能搜索？难道不能对关键词搜索吗？存疑。
 
@@ -100,6 +100,6 @@ tags:
 
 ## 工具、客户端
 
-长毛象的客户端看起里琳琅满目，活跃。https://joinmastodon.org/apps 这个页面汇集了大多数主流客户端。我个人常用的 app 是 Metatext 和 Whalebird。![clients](https://i.nofan.xyz/blog/why-mastodon/clients.png)
+长毛象的客户端看起里琳琅满目，活跃。https://joinmastodon.org/apps 这个页面汇集了大多数主流客户端。我个人常用的 app 是 Metatext 和 Whalebird。![clients](https://media.nofan.xyz/nofan-image-hosting/blog/why-mastodon/clients.png)
 
 饭否的备份工具，大家都说 [饭盒 / Fanfou toolkit](https://www.aoisnow.net/blog/fanhe) 挺不错的。我一直没导出，在饭否的，就让它在饭否，也不错。
