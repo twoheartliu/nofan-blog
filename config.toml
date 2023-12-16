@@ -659,7 +659,7 @@ uglyURLs = false
     # 2. pathname (`location.pathname`)
     # 3. hash (hash_filepath)
     # 4. custom:your_gitalk_id ("your_gitalk_id")
-    gitalkID = "default"
+    gitalkID = "pathname"
 
     gitalkNumber = -1
     gitalkLables = ["Gitalk"]
