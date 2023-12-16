@@ -639,8 +639,8 @@ uglyURLs = false
     # 说明：https://valine.js.org/
 
     ## Utterances
-    enableUtterances = false
-    utterancesRepo = ""
+    enableUtterances = true
+    utterancesRepo = "twoheartliu/nofan-blog"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
@@ -648,7 +648,7 @@ uglyURLs = false
     # 说明：https://utteranc.es/
 
     ## Gitalk
-    enableGitalk = true
+    enableGitalk = false
     gitalkClientID = "4360d7f837d47ad22aaa"
     gitalkClientSecret = "4658d870d60976ed48c0c5d30f4de945b4d3be95"
     gitalkRepo = "nofan-blog"
